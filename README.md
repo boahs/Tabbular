@@ -1,1 +1,3 @@
 # Tabbular
+
+A chrome extension built to help users manlipulate their tabs. Usage will be for specific prices on dAPPs for various ERC-20/ERC tokens. Users will be able to set tab to auto-switch, notify, blink...
