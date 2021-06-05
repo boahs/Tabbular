@@ -1,0 +1,10 @@
+{
+    "name": "Tabbular",
+    "description": "A chrome extension built to help users manlipulate their tabs.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+      },
+      "permissions": ["storage"]
+  }
